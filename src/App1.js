@@ -1,9 +1,6 @@
 import Content from "./Content";
 import Footer from "./Footer";
-
-
 import Header from "./Header";
-
 
 
 
@@ -11,11 +8,10 @@ import Header from "./Header";
 function App()   {
 
   return (
-<div >
-  <Header> </Header>
+<div>
+  <Header>    </Header> 
   <Content></Content>
-<Footer>  </Footer>
-
+  <Footer>  </Footer>
 hiii 
 
 </div>
